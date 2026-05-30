@@ -12,7 +12,6 @@ C:\Users\krish\Desktop\leetcode-dsa-solutions\
 - ✅ Each topic has Easy, Medium, Hard subfolders
 - ✅ Sample solution: `Tree/Medium/938_RangeSumOfBST.cpp`
 - ✅ README.md with overview
-- ✅ CONTRIBUTING.md with guidelines
 - ✅ .gitignore for common files
 
 ---
@@ -51,13 +50,7 @@ C:\Users\krish\Desktop\leetcode-dsa-solutions\
 ### 5. **Add Sample Solution & Commit**
    ```powershell
    git add Tree/Medium/938_RangeSumOfBST.cpp
-   git commit -m "Tree/Medium: 938 Range Sum of BST
-
-Add recursive DFS solution with BST optimization.
-- Time: O(h+k) where h=height, k=nodes in range
-- Space: O(h) for recursion stack
-- Includes iterative alternative approach"
-   
+   git commit -m "Tree/Medium: 938 Range Sum of BST"
    git push
    ```
 
@@ -92,7 +85,13 @@ For each new problem you solve:
    [Topic]/[Difficulty]/[LeetCode#]_[ProblemName].cpp
    ```
 
-2. **Use the template** from the sample solution (header with problem description, approach, complexity)
+2. **Keep the file lightweight**
+   - LeetCode link at the top
+   - DSA concepts
+   - Short approach
+   - Time Complexity
+   - Space Complexity
+   - Only the `class Solution` code you submitted on LeetCode
 
 3. **Commit with meaningful message**:
    ```powershell
@@ -103,30 +102,14 @@ For each new problem you solve:
 
 ---
 
-## 📊 Tracking Progress
-
-Keep the README.md updated with:
-- Total number of solutions
-- Count per topic
-- Progress statistics
-
-Example:
-```
-| Topic | Easy | Medium | Hard | Total |
-|-------|------|--------|------|-------|
-| Arrays | 3 | 2 | 1 | 6 |
-| Tree | 1 | 1 | 0 | 2 |
-```
-
----
-
 ## 🎯 Quick Checklist for Each Solution
 
 Before committing:
 - [ ] File in correct topic folder
 - [ ] File in correct difficulty level
 - [ ] Filename follows convention: `[Number]_[Name].cpp`
-- [ ] Header includes: Problem #, Difficulty, Topics, Approach, Complexity
+- [ ] File includes: LeetCode link, concepts, approach, TC, SC
+- [ ] File contains only the solution class code, not the full problem statement
 - [ ] Code is tested and works on LeetCode
 - [ ] Commit message is meaningful and follows format
 
@@ -144,8 +127,6 @@ Before committing:
 
 ## 📚 Resources
 
-- **Git Guide**: https://git-scm.com/doc
-- **GitHub Guide**: https://guides.github.com/
 - **LeetCode**: https://leetcode.com/
 - **CodeStoryWithMik**: https://www.youtube.com/@codestorywithmik
 

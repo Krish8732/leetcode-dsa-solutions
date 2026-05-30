@@ -1,6 +1,6 @@
 # LeetCode DSA Solutions
 
-A comprehensive repository of Data Structures & Algorithms (DSA) solutions organized by topic and difficulty level. This repository serves as a learning resource and reference for solving coding problems on LeetCode.
+This repository is a clean collection of LeetCode solutions organized by topic and difficulty. Each file is meant to stay close to the code you submit on LeetCode: minimal notes, minimal clutter.
 
 ## 📁 Repository Structure
 
@@ -48,30 +48,41 @@ Files are named with the following format:
 ## 💡 Solution Format
 
 Each solution file includes:
-- **Problem Description**: Clear statement of what needs to be solved
-- **Approach**: Explanation of the algorithm used
-- **Complexity Analysis**: Time and Space complexity
-- **Multiple Implementations**: Different approaches when applicable
-- **Comments**: Inline explanations for clarity
+- **LeetCode link**: the problem URL at the top
+- **DSA concepts**: the main patterns used
+- **Approach**: short explanation of the idea
+- **Time Complexity** and **Space Complexity**: two short lines
+- **Solution class code**: only the `class Solution` block you submitted on LeetCode
+
+Example layout:
+```cpp
+// LeetCode: https://leetcode.com/problems/range-sum-of-bst/
+// Concepts: DFS, BST pruning
+// Approach: Traverse only the branches that can still contain valid values.
+// TC: O(n) | SC: O(h)
+
+class Solution {
+public:
+   int rangeSumBST(TreeNode* root, int low, int high) {
+      if (root == NULL)
+         return 0;
+      if (root->val >= low && root->val <= high) {
+         return root->val + rangeSumBST(root->left, low, high) +
+               rangeSumBST(root->right, low, high);
+      }
+      if (root->val < low)
+         return rangeSumBST(root->right, low, high);
+      return rangeSumBST(root->left, low, high);
+   }
+};
+```
+
 
 ## 🚀 Getting Started
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/leetcode-dsa-solutions.git
-   cd leetcode-dsa-solutions
-   ```
-
-2. **Browse solutions by topic:**
-   - Navigate to the topic folder (e.g., `Tree/`)
-   - Check the appropriate difficulty level (`Easy/`, `Medium/`, `Hard/`)
-   - Review the solution file
-
-3. **Study a problem:**
-   - Read the problem description at the top of the file
-   - Understand the approach
-   - Review the code implementation
-   - Analyze the complexity
+1. Open the topic folder for the problem you solved.
+2. Put the file in the matching difficulty folder.
+3. Keep the file lightweight: link, concepts, short approach, TC/SC, and only the solution class.
 
 ## 📊 Progress Tracking
 
@@ -84,36 +95,12 @@ Each solution file includes:
 
 ## 🛠️ Technologies Used
 
-- **C++** (Primary language for most solutions)
-- **Python** (Alternative implementations where applicable)
-- **Java** (For some problems)
-
-## 📖 Recommended Learning Path
-
-1. Start with **Arrays** and **Strings** (Fundamentals)
-2. Move to **Linked Lists**, **Stacks**, **Queues** (Basic Data Structures)
-3. Study **Trees** and **Graphs** (Complex Structures)
-4. Learn **Dynamic Programming** (Advanced Algorithms)
-5. Practice **Backtracking** and **Greedy** (Pattern Recognition)
-6. Master **Specialized Topics** (Bit Magic, Trie, Segment Tree, etc.)
-
-## 🤝 Contributing
-
-Contributions are welcome! To add new solutions or improve existing ones:
-
-1. Fork the repository
-2. Create a branch: `git checkout -b feature/add-solutions`
-3. Add your solutions following the format guidelines
-4. Commit with meaningful messages: `git commit -m "Add Tree/Medium: 938 Range Sum of BST"`
-5. Push to your fork: `git push origin feature/add-solutions`
-6. Open a Pull Request
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
+- **C++**
 
 ## 📚 Resources
 
-- [LeetCode](https://leetcode.com) - Practice platform
-- [CodeStoryWithMik](https://www.youtube.com/@codestorywithmik) - YouTube channel with excellent explanations
+- [LeetCode](https://leetcode.com)
+- [CodeStoryWithMik](https://www.youtube.com/@codestorywithmik)
 
 ## 📝 License
 
@@ -125,7 +112,5 @@ These solutions are provided for educational purposes. While solving problems on
 
 ---
 
-**Last Updated:** May 2026  
-**Total Solutions:** 1
 
 Happy Coding! 🚀

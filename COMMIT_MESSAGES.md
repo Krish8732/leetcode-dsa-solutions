@@ -23,12 +23,6 @@ Arrays/Easy: 1 Two Sum
 Add hash map solution and brute force approach.
 ```
 
-```
-DP/Hard: 123 Best Time to Buy and Sell Stock III
-
-Add DP solution with state machine approach.
-```
-
 ## Commit Command:
 
 ```bash
