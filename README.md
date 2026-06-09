@@ -88,10 +88,28 @@ public:
 
 | Topic | Easy | Medium | Hard | Total |
 |-------|------|--------|------|-------|
-| Arrays | 0 | 0 | 0 | 0 |
-| Strings | 0 | 0 | 0 | 0 |
-| Tree | 0 | 1 | 0 | 1 |
-| ... | ... | ... | ... | ... |
+| Arrays | 4 | 4 | 0 | 8 |
+| Backtracking | 0 | 0 | 0 | 0 |
+| Bit_Magic | 0 | 0 | 0 | 0 |
+| Design | 0 | 0 | 0 | 0 |
+| DP | 0 | 0 | 1 | 1 |
+| Graph | 0 | 0 | 0 | 0 |
+| Greedy | 0 | 1 | 0 | 1 |
+| HashMap | 0 | 0 | 0 | 0 |
+| HashSet | 0 | 0 | 0 | 0 |
+| Heap | 0 | 0 | 0 | 0 |
+| Line Sweep Technique | 0 | 0 | 0 | 0 |
+| Linked List | 1 | 0 | 0 | 1 |
+| Mathematical | 3 | 0 | 0 | 3 |
+| Queue | 0 | 0 | 0 | 0 |
+| Recursion | 0 | 0 | 0 | 0 |
+| Segment Tree | 0 | 0 | 1 | 1 |
+| Sliding Window | 0 | 0 | 0 | 0 |
+| Stack | 0 | 0 | 0 | 0 |
+| Strings | 2 | 0 | 0 | 2 |
+| Tree | 4 | 2 | 0 | 6 |
+| Trie | 0 | 2 | 0 | 2 |
+| **Total** | **14** | **9** | **2** | **25** |
 
 ## 🛠️ Technologies Used
 
