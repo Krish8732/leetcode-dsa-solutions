@@ -106,10 +106,11 @@ public:
 | Segment Tree | 0 | 0 | 1 | 1 |
 | Sliding Window | 0 | 0 | 0 | 0 |
 | Stack | 0 | 0 | 0 | 0 |
-| Strings | 2 | 0 | 0 | 2 |
+| Strings | 3 | 0 | 0 | 3 |
 | Tree | 4 | 2 | 0 | 6 |
 | Trie | 0 | 2 | 0 | 2 |
-| **Total** | **15** | **9** | **2** | **26** |
+| **Total** | **16** | **9** | **2** | **27** |
+
 
 ## 🛠️ Technologies Used
 
