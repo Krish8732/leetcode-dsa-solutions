@@ -107,9 +107,9 @@ public:
 | Sliding Window | 0 | 0 | 0 | 0 |
 | Stack | 0 | 0 | 0 | 0 |
 | Strings | 3 | 0 | 0 | 3 |
-| Tree | 4 | 2 | 0 | 6 |
+| Tree | 6 | 2 | 0 | 8 |
 | Trie | 0 | 2 | 0 | 2 |
-| **Total** | **16** | **9** | **2** | **27** |
+| **Total** | **18** | **9** | **2** | **29** |
 
 
 ## 🛠️ Technologies Used
