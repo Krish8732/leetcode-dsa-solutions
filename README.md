@@ -99,7 +99,7 @@ public:
 | HashSet | 0 | 0 | 0 | 0 |
 | Heap | 0 | 0 | 0 | 0 |
 | Line Sweep Technique | 0 | 0 | 0 | 0 |
-| Linked List | 1 | 0 | 0 | 1 |
+| Linked List | 1 | 1 | 0 | 2 |
 | Mathematical | 3 | 0 | 0 | 3 |
 | Queue | 0 | 0 | 0 | 0 |
 | Recursion | 0 | 0 | 0 | 0 |
@@ -109,7 +109,7 @@ public:
 | Strings | 3 | 0 | 0 | 3 |
 | Tree | 8 | 2 | 0 | 10 |
 | Trie | 0 | 2 | 0 | 2 |
-| **Total** | **20** | **9** | **2** | **31** |
+| **Total** | **20** | **10** | **2** | **32** |
 
 
 ## 🛠️ Technologies Used
