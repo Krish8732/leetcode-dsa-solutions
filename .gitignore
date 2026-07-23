@@ -71,3 +71,6 @@ logs/
 *.tmp
 *.temp
 *.bak
+
+# Local Copilot agent customizations
+.github/agents/
