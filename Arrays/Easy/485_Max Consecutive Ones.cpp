@@ -1,9 +1,15 @@
-// LeetCode: https://leetcode.com/problems/max-consecutive-ones/
-// Concepts: Arrays, Single Pass
+// Leetcode: https://leetcode.com/problems/max-consecutive-ones/
+// Concepts: Array
 
-// Approach: Iterate through the array, counting consecutive 1s. Reset counter on 0, track the maximum count seen.
+/*
+Intuition:
+Iterate through the array while maintaining a running count of consecutive 1s (cnt).
+- If nums[i] == 1, increment cnt and update maximum (maxn = max(maxn, cnt)).
+- If nums[i] == 0, reset cnt to 0.
 
-// TC: O(n) | SC: O(1)
+T.C: O(n)
+S.C: O(1)
+*/
 
 class Solution {
 public:
@@ -22,4 +28,3 @@ public:
         return maxn;
     }
 };
-

@@ -88,28 +88,28 @@ public:
 
 | Topic | Easy | Medium | Hard | Total |
 |-------|------|--------|------|-------|
-| Arrays | 18 | 9 | 0 | 27 |
+| Arrays | 20 | 9 | 0 | 29 |
 | Backtracking | 0 | 0 | 0 | 0 |
 | Bit_Magic | 3 | 1 | 0 | 4 |
 | Design | 0 | 0 | 0 | 0 |
 | DP | 0 | 1 | 3 | 4 |
 | Graph | 0 | 1 | 0 | 1 |
-| Greedy | 1 | 3 | 0 | 4 |
+| Greedy | 2 | 3 | 0 | 5 |
 | HashMap | 0 | 0 | 0 | 0 |
 | HashSet | 4 | 0 | 0 | 4 |
 | Heap | 0 | 0 | 0 | 0 |
 | Line Sweep Technique | 0 | 0 | 0 | 0 |
 | Linked List | 3 | 2 | 0 | 5 |
-| Mathematical | 11 | 5 | 0 | 16 |
+| Mathematical | 13 | 5 | 0 | 18 |
 | Queue | 0 | 0 | 0 | 0 |
 | Recursion | 0 | 0 | 0 | 0 |
 | Segment Tree | 0 | 0 | 1 | 1 |
 | Sliding Window | 0 | 0 | 1 | 1 |
 | Stack | 1 | 0 | 0 | 1 |
-| Strings | 14 | 1 | 0 | 15 |
+| Strings | 15 | 1 | 0 | 16 |
 | Tree | 8 | 2 | 0 | 10 |
 | Trie | 0 | 2 | 0 | 2 |
-| **Total** | **63** | **27** | **5** | **95** |
+| **Total** | **69** | **27** | **5** | **101** |
 
 
 
