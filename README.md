@@ -88,28 +88,28 @@ public:
 
 | Topic | Easy | Medium | Hard | Total |
 |-------|------|--------|------|-------|
-| Arrays | 8 | 4 | 0 | 12 |
+| Arrays | 18 | 9 | 0 | 27 |
 | Backtracking | 0 | 0 | 0 | 0 |
-| Bit_Magic | 0 | 0 | 0 | 0 |
+| Bit_Magic | 3 | 1 | 0 | 4 |
 | Design | 0 | 0 | 0 | 0 |
-| DP | 0 | 0 | 2 | 2 |
+| DP | 0 | 1 | 3 | 4 |
 | Graph | 0 | 1 | 0 | 1 |
-| Greedy | 0 | 2 | 0 | 2 |
+| Greedy | 1 | 3 | 0 | 4 |
 | HashMap | 0 | 0 | 0 | 0 |
-| HashSet | 0 | 0 | 0 | 0 |
+| HashSet | 3 | 0 | 0 | 3 |
 | Heap | 0 | 0 | 0 | 0 |
 | Line Sweep Technique | 0 | 0 | 0 | 0 |
-| Linked List | 1 | 2 | 0 | 3 |
-| Mathematical | 5 | 3 | 0 | 8 |
+| Linked List | 3 | 2 | 0 | 5 |
+| Mathematical | 10 | 5 | 0 | 15 |
 | Queue | 0 | 0 | 0 | 0 |
 | Recursion | 0 | 0 | 0 | 0 |
 | Segment Tree | 0 | 0 | 1 | 1 |
-| Sliding Window | 0 | 0 | 0 | 0 |
-| Stack | 0 | 0 | 0 | 0 |
-| Strings | 4 | 1 | 0 | 5 |
+| Sliding Window | 0 | 0 | 1 | 1 |
+| Stack | 1 | 0 | 0 | 1 |
+| Strings | 11 | 1 | 0 | 12 |
 | Tree | 8 | 2 | 0 | 10 |
 | Trie | 0 | 2 | 0 | 2 |
-| **Total** | **26** | **17** | **3** | **46** |
+| **Total** | **58** | **27** | **5** | **90** |
 
 
 
