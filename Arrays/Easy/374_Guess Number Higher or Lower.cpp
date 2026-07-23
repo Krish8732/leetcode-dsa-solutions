@@ -1,9 +1,17 @@
-// LeetCode: https://leetcode.com/problems/guess-number-higher-or-lower/
+// Leetcode: https://leetcode.com/problems/guess-number-higher-or-lower/
 // Concepts: Binary Search, Interactive
 
-// Approach: Use simple binary search to guess the number.
+/*
+Intuition:
+Use binary search between search range 1 and n.
+Call the API guess(mid):
+- If guess(mid) == 0: mid is the target number.
+- If guess(mid) == 1: target is higher than mid, search right half (l = mid + 1).
+- If guess(mid) == -1: target is lower than mid, search left half (r = mid - 1).
 
-// TC: O(log n) | SC: O(1)
+T.C: O(log n)
+S.C: O(1)
+*/
 
 class Solution {
 public:
