@@ -100,16 +100,16 @@ public:
 | Heap | 0 | 0 | 0 | 0 |
 | Line Sweep Technique | 0 | 0 | 0 | 0 |
 | Linked List | 3 | 2 | 0 | 5 |
-| Mathematical | 13 | 5 | 0 | 18 |
+| Mathematical | 14 | 5 | 0 | 19 |
 | Queue | 0 | 0 | 0 | 0 |
 | Recursion | 0 | 0 | 0 | 0 |
 | Segment Tree | 0 | 0 | 1 | 1 |
 | Sliding Window | 0 | 0 | 1 | 1 |
 | Stack | 1 | 0 | 0 | 1 |
-| Strings | 15 | 1 | 0 | 16 |
+| Strings | 18 | 1 | 0 | 19 |
 | Tree | 8 | 2 | 0 | 10 |
 | Trie | 0 | 2 | 0 | 2 |
-| **Total** | **71** | **27** | **5** | **103** |
+| **Total** | **75** | **27** | **5** | **107** |
 
 
 
