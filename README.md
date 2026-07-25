@@ -100,7 +100,7 @@ public:
 | Heap | 0 | 0 | 0 | 0 |
 | Line Sweep Technique | 0 | 0 | 0 | 0 |
 | Linked List | 3 | 2 | 0 | 5 |
-| Mathematical | 18 | 5 | 0 | 23 |
+| Mathematical | 19 | 5 | 0 | 24 |
 | Queue | 0 | 0 | 0 | 0 |
 | Recursion | 0 | 0 | 0 | 0 |
 | Segment Tree | 0 | 0 | 1 | 1 |
@@ -109,7 +109,7 @@ public:
 | Strings | 20 | 1 | 0 | 21 |
 | Tree | 8 | 2 | 0 | 10 |
 | Trie | 0 | 2 | 0 | 2 |
-| **Total** | **87** | **27** | **5** | **119** |
+| **Total** | **88** | **27** | **5** | **120** |
 
 
 
