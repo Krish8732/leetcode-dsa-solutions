@@ -91,7 +91,7 @@ public:
 
 | Topic | Easy | Medium | Hard | Total |
 |-------|------|--------|------|-------|
-| Arrays | 39 | 9 | 0 | 48 |
+| Arrays | 42 | 9 | 0 | 51 |
 | Backtracking | 0 | 0 | 0 | 0 |
 | Bit_Magic | 5 | 2 | 0 | 7 |
 | Design | 0 | 0 | 0 | 0 |
@@ -103,7 +103,7 @@ public:
 | Heap | 0 | 0 | 0 | 0 |
 | Line Sweep Technique | 0 | 0 | 0 | 0 |
 | Linked List | 3 | 2 | 0 | 5 |
-| Mathematical | 25 | 5 | 0 | 30 |
+| Mathematical | 26 | 5 | 0 | 31 |
 | Queue | 0 | 0 | 0 | 0 |
 | Recursion | 0 | 0 | 0 | 0 |
 | Segment Tree | 0 | 0 | 1 | 1 |
@@ -112,7 +112,7 @@ public:
 | Strings | 23 | 2 | 0 | 25 |
 | Tree | 8 | 2 | 0 | 10 |
 | Trie | 0 | 2 | 0 | 2 |
-| **Total** | **113** | **29** | **5** | **147** |
+| **Total** | **117** | **29** | **5** | **151** |
 
 ## 🛠️ Technologies Used
 
