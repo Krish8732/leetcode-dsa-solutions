@@ -1,5 +1,11 @@
 # LeetCode DSA Solutions
 
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Krish8732/)
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Krish8732?theme=tokyonight&font=Inter" alt="LeetCode Stats Card" />
+</p>
+
 This repository is a clean collection of LeetCode solutions organized by topic and difficulty. Each file is meant to stay close to the code you submit on LeetCode: minimal notes, minimal clutter.
 
 ## 📁 Repository Structure
