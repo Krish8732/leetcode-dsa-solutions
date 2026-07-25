@@ -91,7 +91,7 @@ public:
 
 | Topic | Easy | Medium | Hard | Total |
 |-------|------|--------|------|-------|
-| Arrays | 38 | 9 | 0 | 47 |
+| Arrays | 39 | 9 | 0 | 48 |
 | Backtracking | 0 | 0 | 0 | 0 |
 | Bit_Magic | 5 | 2 | 0 | 7 |
 | Design | 0 | 0 | 0 | 0 |
@@ -112,7 +112,7 @@ public:
 | Strings | 23 | 2 | 0 | 25 |
 | Tree | 8 | 2 | 0 | 10 |
 | Trie | 0 | 2 | 0 | 2 |
-| **Total** | **111** | **29** | **5** | **145** |
+| **Total** | **112** | **29** | **5** | **146** |
 
 ## 🛠️ Technologies Used
 
