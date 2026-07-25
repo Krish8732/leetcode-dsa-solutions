@@ -99,20 +99,20 @@ public:
 | Graph | 0 | 1 | 0 | 1 |
 | Greedy | 3 | 3 | 0 | 6 |
 | HashMap | 1 | 0 | 0 | 1 |
-| HashSet | 5 | 0 | 0 | 5 |
+| HashSet | 6 | 0 | 0 | 6 |
 | Heap | 0 | 0 | 0 | 0 |
 | Line Sweep Technique | 0 | 0 | 0 | 0 |
 | Linked List | 3 | 2 | 0 | 5 |
-| Mathematical | 28 | 5 | 0 | 33 |
+| Mathematical | 32 | 5 | 0 | 37 |
 | Queue | 0 | 0 | 0 | 0 |
 | Recursion | 0 | 0 | 0 | 0 |
 | Segment Tree | 0 | 0 | 1 | 1 |
 | Sliding Window | 0 | 0 | 1 | 1 |
 | Stack | 1 | 0 | 0 | 1 |
-| Strings | 23 | 2 | 0 | 25 |
+| Strings | 24 | 2 | 0 | 26 |
 | Tree | 8 | 2 | 0 | 10 |
 | Trie | 0 | 2 | 0 | 2 |
-| **Total** | **121** | **29** | **5** | **155** |
+| **Total** | **127** | **29** | **5** | **161** |
 
 ## 🛠️ Technologies Used
 
