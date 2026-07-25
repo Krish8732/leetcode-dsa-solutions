@@ -36,11 +36,13 @@ Each topic folder contains `Easy/`, `Medium/`, and `Hard/` subdirectories with i
 ## 📝 File Naming Convention
 
 Files are named with the following format:
+
 ```
 {LeetCode_Problem_Number}_{Problem_Name}.{extension}
 ```
 
 **Example:**
+
 ```
 938_RangeSumOfBST.cpp
 ```
@@ -48,6 +50,7 @@ Files are named with the following format:
 ## 💡 Solution Format
 
 Each solution file includes:
+
 - **LeetCode link**: the problem URL at the top
 - **DSA concepts**: the main patterns used
 - **Approach**: short explanation of the idea
@@ -55,6 +58,7 @@ Each solution file includes:
 - **Solution class code**: only the `class Solution` block you submitted on LeetCode
 
 Example layout:
+
 ```cpp
 // LeetCode: https://leetcode.com/problems/range-sum-of-bst/
 // Concepts: DFS, BST pruning
@@ -76,7 +80,6 @@ public:
    }
 };
 ```
-
 
 ## 🚀 Getting Started
 
@@ -106,13 +109,10 @@ public:
 | Segment Tree | 0 | 0 | 1 | 1 |
 | Sliding Window | 0 | 0 | 1 | 1 |
 | Stack | 1 | 0 | 0 | 1 |
-| Strings | 21 | 1 | 0 | 22 |
+| Strings | 22 | 2 | 0 | 24 |
 | Tree | 8 | 2 | 0 | 10 |
 | Trie | 0 | 2 | 0 | 2 |
-| **Total** | **107** | **28** | **5** | **140** |
-
-
-
+| **Total** | **108** | **29** | **5** | **142** |
 
 ## 🛠️ Technologies Used
 
@@ -132,6 +132,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 These solutions are provided for educational purposes. While solving problems on your own is encouraged, these solutions can serve as reference material for learning different approaches and techniques.
 
 ---
-
 
 Happy Coding! 🚀
