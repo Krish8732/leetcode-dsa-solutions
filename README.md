@@ -128,6 +128,10 @@ public:
 ## 📚 Resources
 
 - [LeetCode](https://leetcode.com)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- [Competitive Programmer's Handbook (Antti Laaksonen)](https://cses.fi/book/book.pdf)
+- [take U forward / Striver](https://www.youtube.com/@takeUforward)
+- [Colin Galen](https://www.youtube.com/@ColinGalen)
 - [CodeStoryWithMik](https://www.youtube.com/@codestorywithmik)
 
 ## 📝 License
