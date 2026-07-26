@@ -1,6 +1,7 @@
 # LeetCode DSA Solutions
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Krish1199/)
+[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-161-brightgreen?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Krish1199/)
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Krish1199?theme=dark&font=Inter" alt="LeetCode Stats Card" />
@@ -15,26 +16,26 @@ Solutions are organized by **21 major DSA topics**, each containing problems cat
 ```
 leetcode-dsa-solutions/
 ├── Arrays/
-├── Strings/
-├── Linked List/
-├── Stack/
-├── Queue/
-├── Tree/
+├── Backtracking/
+├── Bit_Magic/
+├── DP/
+├── Design/
 ├── Graph/
-├── Heap/
+├── Greedy/
 ├── HashMap/
 ├── HashSet/
-├── DP/
-├── Greedy/
-├── Backtracking/
-├── Recursion/
-├── Sliding Window/
-├── Bit_Magic/
+├── Heap/
+├── Line Sweep Technique/
+├── Linked List/
 ├── Mathematical/
-├── Trie/
+├── Queue/
+├── Recursion/
 ├── Segment Tree/
-├── Design/
-└── Line Sweep Technique/
+├── Sliding Window/
+├── Stack/
+├── Strings/
+├── Tree/
+└── Trie/
 ```
 
 Each topic folder contains `Easy/`, `Medium/`, and `Hard/` subdirectories with individual problem solutions.
@@ -97,27 +98,27 @@ public:
 
 | Topic | Easy | Medium | Hard | Total |
 |-------|------|--------|------|-------|
-| Arrays | 44 | 9 | 0 | 53 |
-| Backtracking | 0 | 0 | 0 | 0 |
-| Bit_Magic | 5 | 2 | 0 | 7 |
-| Design | 0 | 0 | 0 | 0 |
-| DP | 0 | 1 | 3 | 4 |
-| Graph | 0 | 1 | 0 | 1 |
-| Greedy | 3 | 3 | 0 | 6 |
-| HashMap | 1 | 0 | 0 | 1 |
-| HashSet | 6 | 0 | 0 | 6 |
-| Heap | 0 | 0 | 0 | 0 |
-| Line Sweep Technique | 0 | 0 | 0 | 0 |
-| Linked List | 3 | 2 | 0 | 5 |
-| Mathematical | 32 | 5 | 0 | 37 |
-| Queue | 0 | 0 | 0 | 0 |
-| Recursion | 0 | 0 | 0 | 0 |
-| Segment Tree | 0 | 0 | 1 | 1 |
-| Sliding Window | 0 | 0 | 1 | 1 |
-| Stack | 1 | 0 | 0 | 1 |
-| Strings | 24 | 2 | 0 | 26 |
-| Tree | 8 | 2 | 0 | 10 |
-| Trie | 0 | 2 | 0 | 2 |
+| [Arrays](./Arrays) | 44 | 9 | 0 | 53 |
+| [Backtracking](./Backtracking) | 0 | 0 | 0 | 0 |
+| [Bit_Magic](./Bit_Magic) | 5 | 2 | 0 | 7 |
+| [Design](./Design) | 0 | 0 | 0 | 0 |
+| [DP](./DP) | 0 | 1 | 3 | 4 |
+| [Graph](./Graph) | 0 | 1 | 0 | 1 |
+| [Greedy](./Greedy) | 3 | 3 | 0 | 6 |
+| [HashMap](./HashMap) | 1 | 0 | 0 | 1 |
+| [HashSet](./HashSet) | 6 | 0 | 0 | 6 |
+| [Heap](./Heap) | 0 | 0 | 0 | 0 |
+| [Line Sweep Technique](./Line%20Sweep%20Technique) | 0 | 0 | 0 | 0 |
+| [Linked List](./Linked%20List) | 3 | 2 | 0 | 5 |
+| [Mathematical](./Mathematical) | 32 | 5 | 0 | 37 |
+| [Queue](./Queue) | 0 | 0 | 0 | 0 |
+| [Recursion](./Recursion) | 0 | 0 | 0 | 0 |
+| [Segment Tree](./Segment%20Tree) | 0 | 0 | 1 | 1 |
+| [Sliding Window](./Sliding%20Window) | 0 | 0 | 1 | 1 |
+| [Stack](./Stack) | 1 | 0 | 0 | 1 |
+| [Strings](./Strings) | 24 | 2 | 0 | 26 |
+| [Tree](./Tree) | 8 | 2 | 0 | 10 |
+| [Trie](./Trie) | 0 | 2 | 0 | 2 |
 | **Total** | **127** | **29** | **5** | **161** |
 
 ## 🛠️ Technologies Used
