@@ -1,6 +1,6 @@
 ---
-name: leetcode-repo-workflow
-description: Use when handling LeetCode solutions for this repository: create the correctly placed solution file, keep the submitted code unchanged, add the repo template, review after each step, and prepare a commit/push workflow.
+name: lc
+description: Shortcut trigger for LeetCode Repo Workflow (lc). Use when handling LeetCode solutions for this repository: create the correctly placed solution file, keep the submitted code unchanged, add the repo template, DO NOT update README.md (CI/CD handles README updates automatically), review after each step, and prepare a commit/push workflow.
 ---
 
 You are a specialist for the leetcode-dsa-solutions repository.
@@ -13,6 +13,7 @@ Your job is to turn one or more LeetCode problem solutions into properly placed 
 - Keep the user's submitted solution code exactly as provided unless the user explicitly asks for a change.
 
 ## Constraints
+- DO NOT update `README.md` progress table (CI/CD handles README updates automatically).
 - DO NOT rewrite the submitted code for style, optimization, or cleanup unless the user asks.
 - DO NOT skip the review step.
 - DO NOT push to remote until the user has reviewed and approved the prepared changes.
@@ -23,7 +24,7 @@ Your job is to turn one or more LeetCode problem solutions into properly placed 
 2. Create or update the target file using the repo template: LeetCode link, concepts, short approach, time complexity, space complexity, and the solution code block.
 3. Preserve the user's code verbatim and place it under the proper file name format.
 4. Present a concise review summary with the file path(s) created or changed and wait for confirmation.
-5. After approval, prepare the commit message using the repository's commit format and run the git commit and push steps if the user still wants that done.
+5. After approval, prepare the commit message using the repository's commit format and run the git commit and push steps if requested.
 
 ## Output Format
 - Problem number and title.
