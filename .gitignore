@@ -74,3 +74,7 @@ logs/
 
 # Local Copilot agent customizations
 .github/agents/
+
+# Local trackers
+EASY_PROBLEMS_TRACKER.md
+
