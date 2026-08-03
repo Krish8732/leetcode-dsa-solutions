@@ -1,7 +1,7 @@
 # LeetCode DSA Solutions
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Krish1199/)
-[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-201-brightgreen?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Krish1199/)
+[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-205-brightgreen?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Krish1199/)
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Krish1199?theme=dark&font=Inter" alt="LeetCode Stats Card" />
@@ -98,7 +98,7 @@ public:
 
 | Topic | Easy | Medium | Hard | Total |
 |-------|------|--------|------|-------|
-| [Arrays](./Arrays) | 61 | 9 | 0 | 70 |
+| [Arrays](./Arrays) | 63 | 9 | 0 | 72 |
 | [Backtracking](./Backtracking) | 0 | 0 | 0 | 0 |
 | [Bit_Magic](./Bit_Magic) | 6 | 2 | 0 | 8 |
 | [Design](./Design) | 0 | 0 | 0 | 0 |
@@ -116,10 +116,10 @@ public:
 | [Segment Tree](./Segment%20Tree) | 0 | 0 | 1 | 1 |
 | [Sliding Window](./Sliding%20Window) | 1 | 0 | 1 | 2 |
 | [Stack](./Stack) | 1 | 0 | 0 | 1 |
-| [Strings](./Strings) | 38 | 3 | 0 | 41 |
+| [Strings](./Strings) | 40 | 3 | 0 | 43 |
 | [Tree](./Tree) | 8 | 2 | 0 | 10 |
 | [Trie](./Trie) | 0 | 2 | 0 | 2 |
-| **Total** | **162** | **33** | **6** | **201** |
+| **Total** | **166** | **33** | **6** | **205** |
 
 ## 🛠️ Technologies Used
 
