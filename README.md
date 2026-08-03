@@ -1,7 +1,7 @@
 # LeetCode DSA Solutions
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Krish1199/)
-[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-189-brightgreen?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Krish1199/)
+[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-195-brightgreen?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Krish1199/)
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Krish1199?theme=dark&font=Inter" alt="LeetCode Stats Card" />
@@ -116,10 +116,10 @@ public:
 | [Segment Tree](./Segment%20Tree) | 0 | 0 | 1 | 1 |
 | [Sliding Window](./Sliding%20Window) | 1 | 0 | 1 | 2 |
 | [Stack](./Stack) | 1 | 0 | 0 | 1 |
-| [Strings](./Strings) | 29 | 3 | 0 | 32 |
+| [Strings](./Strings) | 35 | 3 | 0 | 38 |
 | [Tree](./Tree) | 8 | 2 | 0 | 10 |
 | [Trie](./Trie) | 0 | 2 | 0 | 2 |
-| **Total** | **152** | **32** | **5** | **189** |
+| **Total** | **158** | **32** | **5** | **195** |
 
 ## 🛠️ Technologies Used
 
