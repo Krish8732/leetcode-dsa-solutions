@@ -6,6 +6,8 @@ Approach:
 Intuition:
 We can generate all coordinates in the grid and insert them into a 2D vector. Then, we sort this vector using a custom lambda function that calculates the Manhattan distance to the center coordinate (rCenter, cCenter) for each cell and sorts them in ascending order of their distances. This simplifies the implementation by avoiding auxiliary data structures.
 
+Note: We can optimize this to O(R * C) time by traversing cells layer-by-layer (rings) outwards from the center, so they are naturally sorted by distance without requiring a sort.
+
 TC: O(R * C * log(R * C)) - where R is rows and C is cols, since we sort all R * C cells.
 SC: O(log(R * C)) - for the recursion stack of the sorting algorithm.
 */
