@@ -1,7 +1,7 @@
 # LeetCode DSA Solutions
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Krish1199/)
-[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-222-brightgreen?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Krish1199/)
+[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-227-brightgreen?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Krish1199/)
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Krish1199?theme=dark&font=Inter" alt="LeetCode Stats Card" />
@@ -98,11 +98,11 @@ public:
 
 | Topic | Easy | Medium | Hard | Total |
 |-------|------|--------|------|-------|
-| [Arrays](./Arrays) | 66 | 9 | 0 | 75 |
+| [Arrays](./Arrays) | 68 | 9 | 0 | 77 |
 | [Backtracking](./Backtracking) | 0 | 0 | 0 | 0 |
-| [Bit_Magic](./Bit_Magic) | 9 | 2 | 0 | 11 |
+| [Bit_Magic](./Bit_Magic) | 10 | 2 | 0 | 12 |
 | [Design](./Design) | 0 | 0 | 0 | 0 |
-| [DP](./DP) | 0 | 3 | 4 | 7 |
+| [DP](./DP) | 0 | 3 | 5 | 8 |
 | [Graph](./Graph) | 0 | 2 | 0 | 2 |
 | [Greedy](./Greedy) | 4 | 4 | 0 | 8 |
 | [HashMap](./HashMap) | 1 | 0 | 0 | 1 |
@@ -110,7 +110,7 @@ public:
 | [Heap](./Heap) | 0 | 0 | 0 | 0 |
 | [Line Sweep Technique](./Line%20Sweep%20Technique) | 0 | 0 | 0 | 0 |
 | [Linked List](./Linked%20List) | 3 | 2 | 0 | 5 |
-| [Mathematical](./Mathematical) | 42 | 5 | 0 | 47 |
+| [Mathematical](./Mathematical) | 43 | 5 | 0 | 48 |
 | [Queue](./Queue) | 0 | 0 | 0 | 0 |
 | [Recursion](./Recursion) | 0 | 0 | 0 | 0 |
 | [Segment Tree](./Segment%20Tree) | 0 | 0 | 1 | 1 |
@@ -119,7 +119,7 @@ public:
 | [Strings](./Strings) | 40 | 3 | 0 | 43 |
 | [Tree](./Tree) | 8 | 2 | 0 | 10 |
 | [Trie](./Trie) | 0 | 2 | 0 | 2 |
-| **Total** | **182** | **34** | **6** | **222** |
+| **Total** | **186** | **34** | **7** | **227** |
 
 ## 🛠️ Technologies Used
 
