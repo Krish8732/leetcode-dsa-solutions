@@ -25,6 +25,7 @@ Your job is to turn one or more LeetCode problem solutions into properly placed 
 3. Preserve the user's code verbatim and place it under the proper file name format.
 4. Present a concise review summary with the file path(s) created or changed and wait for confirmation.
 5. After approval, prepare the commit message using the repository's commit format and run the git commit and push steps if requested.
+6. When problems are solved and committed (both completed), update the local tracker files (`EASY_PROBLEMS_TRACKER.md` and/or `MEDIUM_HARD_PROBLEMS_TRACKER.md`) to mark the committed problems as checked (`[x]`) and update counts accordingly. Do NOT mark problems that are only saved locally or uncommitted.
 
 ## Output Format
 - Problem number and title.
@@ -34,7 +35,7 @@ Your job is to turn one or more LeetCode problem solutions into properly placed 
 - A clear review checkpoint asking the user to confirm before push.
 
 ## Commit Format
-Use the repository convention from COMMIT_MESSAGES.md:
+Use the repository commit message convention:
 - `[Topic/Difficulty]: [LeetCode #] [Problem Name]`
 
 If multiple problems are handled together, make the commit message describe the set clearly while staying concise.
