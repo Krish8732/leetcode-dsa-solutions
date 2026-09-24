@@ -9,6 +9,8 @@
 
 This repository is a clean collection of LeetCode solutions organized by topic and difficulty. Each file is meant to stay close to the code you submit on LeetCode: minimal notes, minimal clutter.
 
+👉 **Looking for a specific problem? Check out the [Complete Solutions Index & Search Directory](./SOLUTIONS_INDEX.md).**
+
 ## 📁 Repository Structure
 
 Solutions are organized by **21 major DSA topics**, each containing problems categorized by **difficulty levels** (Easy, Medium, Hard):

@@ -24,8 +24,8 @@ Your job is to turn one or more LeetCode problem solutions into properly placed 
 2. Create or update the target file using the repo template: LeetCode link, concepts, short approach, time complexity, space complexity, and the solution code block.
 3. Preserve the user's code verbatim and place it under the proper file name format.
 4. Present a concise review summary with the file path(s) created or changed and wait for confirmation.
-5. After approval, prepare the commit message using the repository's commit format and run the git commit and push steps if requested.
-6. When problems are solved and committed (both completed), update the local tracker files (`EASY_PROBLEMS_TRACKER.md` and/or `MEDIUM_HARD_PROBLEMS_TRACKER.md`) to mark the committed problems as checked (`[x]`) and update counts accordingly. Do NOT mark problems that are only saved locally or uncommitted.
+5. After approval, prepare the commit message using the repository's commit format. Before committing, run `python scripts/update_readme.py` and `python scripts/generate_index.py` so README and index updates are included in the same commit. This prevents GitHub Actions from creating extra bot commits that cause local to fall behind.
+6. Once the solutions are committed, run `python scripts/sync_trackers.py` to automatically update the local tracker files (`EASY_PROBLEMS_TRACKER.md` and `MEDIUM_HARD_PROBLEMS_TRACKER.md`). This keeps trackers in sync without manual token overhead. Do NOT mark problems that are only saved locally or uncommitted.
 
 ## Output Format
 - Problem number and title.
